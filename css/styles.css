@@ -151,6 +151,21 @@ hr {
   }
 
 .cont-message {
-    width: 40%;
+    width: 50%;
     margin: 40px auto;
+}
+
+blockquote {
+    border-left: 0.2rem solid #11999E;
+    font-style: italic;
+    font-size: 1em;
+    color: #11999E;
+    line-height: 2;
+    padding: 1rem;
+    width: 50%;
+    margin: auto;   
+}
+
+.blockquote-footer {
+padding-left: 40rem;
 }
